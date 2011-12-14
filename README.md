@@ -7,6 +7,7 @@ Works in jasmine-headless-webkit versions that support Sprockets.
 It comes with the libraries I need:
 
 * [jasmine-jquery](https://github.com/velesin/jasmine-jquery) 1.3.1
+* [jasmine-sinon](https://github.com/froots/jasmine-sinon) 0.1.0
 * [Sinon.js](http://sinonjs.org/) 1.2.0
 
 ## How to use it
@@ -16,6 +17,7 @@ It's Sprockets vendored gem goodness, so at the top of your `spec_helper`:
 ``` coffee
 #= require jasmine-jquery
 #= require sinon
+#= require jasmine-sinon
 
 ...make cool code...
 ```
