@@ -6,6 +6,7 @@ Works in jasmine-headless-webkit versions that support Sprockets.
 
 It comes with the libraries I need:
 
+* [jasmine-fixture](http://github.com/searls/jasmine-fixture) 1.0.2
 * [jasmine-jquery](https://github.com/velesin/jasmine-jquery) 1.3.1
 * [jasmine-sinon](https://github.com/froots/jasmine-sinon) 0.1.0
 * [Sinon.js](http://sinonjs.org/) 1.2.0
